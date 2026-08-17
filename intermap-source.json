@@ -1,0 +1,10 @@
+{
+  "protocol_version": 1,
+  "source_id": "intermap-official-test",
+  "name": "InterMap — distribution de test",
+  "catalogue_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/main/catalogue-v2.json",
+  "capabilities": [
+    "catalogue",
+    "packages"
+  ]
+}
