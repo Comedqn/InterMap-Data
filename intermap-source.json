@@ -5,8 +5,8 @@
   "descriptor_sequence": 3,
   "issued_at": "2026-08-25T00:00:00Z",
   "expires_at": "2027-08-25T18:00:00Z",
-  "catalogue_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/main/catalogue-v2.json?revision=4",
-  "catalogue_signature_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/main/catalogue-v2.json.sig?revision=4",
+  "catalogue_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/890aade0453b21cb9071b376acfd6b31f242ccfb/catalogue-v2.json",
+  "catalogue_signature_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/890aade0453b21cb9071b376acfd6b31f242ccfb/catalogue-v2.json.sig",
   "publishing_keys": [
     {
       "key_id": "intermap-test-publishing-2026-02",
