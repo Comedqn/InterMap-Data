@@ -2,5 +2,5 @@
   "signature_format": 1,
   "algorithm": "Ed25519",
   "key_id": "intermap-test-root-2026-01",
-  "signature": "J5PyMDhDnWZ1jWua+vZNTtoNrDTWVE+gSfrt15DflEl2AWbKrkIXb6Cj7zCDkU9G1RxI9bhzzSgiTvNP211TCQ=="
+  "signature": "SZpJaScSs+TIedV1Xu+HUdP9QWl+ALl8Zco289ub9c1VqjX4FpmXvbK4OhiqAmccc5LNuqIfIg5IJI9Pg9NVAQ=="
 }
