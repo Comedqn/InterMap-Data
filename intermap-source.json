@@ -1,17 +1,17 @@
 {
   "protocol_version": 2,
   "source_id": "intermap-official-test",
-  "name": "InterMap — distribution signée de test",
+  "name": "InterMap â€” distribution signÃ©e de test",
   "descriptor_sequence": 3,
   "issued_at": "2026-08-25T00:00:00Z",
   "expires_at": "2027-08-25T18:00:00Z",
-  "catalogue_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/main/catalogue-v2.json?revision=3",
-  "catalogue_signature_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/main/catalogue-v2.json.sig?revision=3",
+  "catalogue_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/main/catalogue-v2.json?revision=4",
+  "catalogue_signature_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/main/catalogue-v2.json.sig?revision=4",
   "publishing_keys": [
     {
-      "key_id": "intermap-test-publishing-2026-01",
+      "key_id": "intermap-test-publishing-2026-02",
       "algorithm": "Ed25519",
-      "public_key": "sFu/awqBBleCMwjROcHH2AKlbpgtARgh2yNeLFCBDxU=",
+      "public_key": "VESlHCV89eC8ttnlFuOwIrpyv5kEqCQpf/adzIDJEGA=",
       "not_before": "2026-08-25T00:00:00Z",
       "not_after": "2028-08-25T18:00:00Z"
     }
