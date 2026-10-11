@@ -1,19 +1,19 @@
 {
   "protocol_version": 2,
-  "source_id": "intermap-official-test",
-  "name": "InterMap â€” distribution signÃ©e de test",
-  "descriptor_sequence": 3,
-  "issued_at": "2026-08-25T00:00:00Z",
-  "expires_at": "2027-08-25T18:00:00Z",
-  "catalogue_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/890aade0453b21cb9071b376acfd6b31f242ccfb/catalogue-v2.json",
-  "catalogue_signature_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/f03c91fdba557c063bb71f14fcdc941a62b4f883/catalogue-v2.json.sig",
+  "source_id": "intermap-official-fr",
+  "name": "InterMap — source officielle bêta France",
+  "descriptor_sequence": 4,
+  "issued_at": "2026-10-11T12:00:00Z",
+  "expires_at": "2027-10-11T23:59:59Z",
+  "catalogue_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/0848cafcc261dd2c027aa9841a8e6d33bcf6f414/catalogue-v2.json",
+  "catalogue_signature_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/0848cafcc261dd2c027aa9841a8e6d33bcf6f414/catalogue-v2.json.sig",
   "publishing_keys": [
     {
-      "key_id": "intermap-test-publishing-2026-02",
+      "key_id": "intermap-publishing-2026-10",
       "algorithm": "Ed25519",
-      "public_key": "VESlHCV89eC8ttnlFuOwIrpyv5kEqCQpf/adzIDJEGA=",
-      "not_before": "2026-08-25T00:00:00Z",
-      "not_after": "2028-08-25T18:00:00Z"
+      "public_key": "fCh74F+dZ2M1pZ/vi9gcSXgUei7Gwad1lUYXDdCOVSw=",
+      "not_before": "2026-10-11T00:00:00Z",
+      "not_after": "2028-10-11T23:59:59Z"
     }
   ],
   "capabilities": [
