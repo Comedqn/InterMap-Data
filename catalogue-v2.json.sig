@@ -1,6 +1,6 @@
 {
   "signature_format": 1,
   "algorithm": "Ed25519",
-  "key_id": "intermap-test-publishing-2026-02",
-  "signature": "9DqbJZE2tEfJYr77KuhAB5d1W67rWJkPADJE3l1FmWiWDVuZrQs7IQlt0iRnhOTvPO7SclY7BqC9sBUoG/7fDw=="
+  "key_id": "intermap-publishing-2026-10",
+  "signature": "GqMYbiQDS0ecIWB/xktB/CZiy1Z/V5tWUdes+TZcRjmdUZTBnVyjGF6waZVDXXyDEMAYSqeFOaQleUgJe4qaDw=="
 }

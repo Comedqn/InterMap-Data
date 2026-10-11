@@ -1,8 +1,6 @@
 # InterMap Data
 
-Source publique de test compatible avec **InterMap Distribution Protocol v1**.
-
-> TEST / PRERELEASE — NOT AN OFFICIAL TRUSTED DISTRIBUTION
+Source officielle bêta compatible avec **InterMap Distribution Protocol v1**.
 
 Ce dépôt héberge uniquement les petits fichiers statiques du protocole :
 
@@ -11,13 +9,14 @@ Ce dépôt héberge uniquement les petits fichiers statiques du protocole :
 - `DATA_LICENSE.md` : attribution et licence des données.
 
 Les archives `.intermap.zip` ne sont pas committées dans Git. Elles sont
-publiées comme assets d’une prerelease GitHub. GitHub n’est ici qu’un serveur
+publiées comme assets d’une version GitHub. GitHub n’est ici qu’un serveur
 de fichiers HTTP(S) : l’application InterMap ne consomme ni l’API GitHub ni un
 format spécifique à GitHub.
 
-Cette source sert à valider le téléchargement réel de Versailles et du
-Chesnay-Rocquencourt. Elle n’est pas signée et son `source_id` n’est pas une
-preuve cryptographique de l’identité de son opérateur.
+Le catalogue distribue actuellement Buc, Versailles et Le
+Chesnay-Rocquencourt. Le descripteur et le catalogue sont signés avec deux
+rôles Ed25519 distincts ; chaque archive est ensuite contrôlée par sa taille et
+son empreinte SHA-256 authentifiées par le catalogue.
 
 Point d’entrée public :
 [`intermap-source.json`](https://raw.githubusercontent.com/Comedqn/InterMap-Data/main/intermap-source.json)
