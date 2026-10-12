@@ -1,7 +1,7 @@
 {
   "format_version": 2,
-  "catalogue_id": "intermap-fr-2026-10-11",
-  "generated_at": "2026-10-11T12:00:00Z",
+  "catalogue_id": "intermap-fr-2026-10-12",
+  "generated_at": "2026-10-12T13:00:07Z",
   "source": {
     "nom": "© OpenStreetMap contributors",
     "url": "https://www.openstreetmap.org/copyright",
@@ -1264,10 +1264,10 @@
       "administrative_code": "78646",
       "package": {
         "package_id": "commune:fr:78646",
-        "version": 2,
-        "size_bytes": 1452801,
-        "sha256": "CFDBE626E0983F9E3D07F87636E48699689A1E494F363FDC9EE086AD8A94E317",
-        "download_url": "https://github.com/Comedqn/InterMap-Data/releases/download/data-2026.10.11.1/fr-78646-v2.intermap.zip"
+        "version": 3,
+        "size_bytes": 1431013,
+        "sha256": "E6D30D373DA95EDD1ACF553AA5F5E4E923A259D919553D8E9017BB3D80BE4E2C",
+        "download_url": "https://github.com/Comedqn/InterMap-Data/releases/download/data-2026.10.12.1/fr-78646-v3.intermap.zip"
       },
       "geometry_geojson": {
         "type": "Polygon",
@@ -2832,7 +2832,7 @@
     }
   ],
   "source_id": "intermap-official-fr",
-  "catalogue_sequence": 4,
-  "issued_at": "2026-10-11T12:00:00Z",
-  "expires_at": "2027-10-11T23:59:59Z"
+  "catalogue_sequence": 5,
+  "issued_at": "2026-10-12T13:00:07Z",
+  "expires_at": "2027-10-12T23:59:59Z"
 }

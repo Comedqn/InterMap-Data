@@ -18,6 +18,10 @@ Chesnay-Rocquencourt. Le descripteur et le catalogue sont signés avec deux
 rôles Ed25519 distincts ; chaque archive est ensuite contrôlée par sa taille et
 son empreinte SHA-256 authentifiées par le catalogue.
 
+Depuis la publication du 12 octobre 2026, Versailles v3 applique une seule
+appartenance pédagogique par segment : le nom local est prioritaire et la
+référence routière n'est utilisée que pour les tronçons réellement sans nom.
+
 Point d’entrée public :
 [`intermap-source.json`](https://raw.githubusercontent.com/Comedqn/InterMap-Data/main/intermap-source.json)
 
