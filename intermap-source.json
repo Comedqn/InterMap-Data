@@ -2,18 +2,18 @@
   "protocol_version": 2,
   "source_id": "intermap-official-fr",
   "name": "InterMap — source officielle bêta France",
-  "descriptor_sequence": 4,
-  "issued_at": "2026-10-11T12:00:00Z",
-  "expires_at": "2027-10-11T23:59:59Z",
-  "catalogue_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/ce62177f4673eada2602aeecf24f99ae7b63feb8/catalogue-v2.json",
-  "catalogue_signature_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/ce62177f4673eada2602aeecf24f99ae7b63feb8/catalogue-v2.json.sig",
+  "descriptor_sequence": 5,
+  "issued_at": "2026-10-12T13:27:08Z",
+  "expires_at": "2027-10-12T23:59:59Z",
+  "catalogue_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/0ccc0ada139a2a050e11398d5316bcc116fce16c/catalogue-v2.json",
+  "catalogue_signature_url": "https://raw.githubusercontent.com/Comedqn/InterMap-Data/0ccc0ada139a2a050e11398d5316bcc116fce16c/catalogue-v2.json.sig",
   "publishing_keys": [
     {
-      "key_id": "intermap-publishing-2026-10",
+      "key_id": "intermap-publishing-2026-10-12",
       "algorithm": "Ed25519",
-      "public_key": "fCh74F+dZ2M1pZ/vi9gcSXgUei7Gwad1lUYXDdCOVSw=",
-      "not_before": "2026-10-11T00:00:00Z",
-      "not_after": "2028-10-11T23:59:59Z"
+      "public_key": "ZfOC/1Ir5W9m8GjcmffKgSHqoqIE7XK2BmtwZi3mLg8=",
+      "not_before": "2026-10-12T00:00:00Z",
+      "not_after": "2028-10-12T23:59:59Z"
     }
   ],
   "capabilities": [
